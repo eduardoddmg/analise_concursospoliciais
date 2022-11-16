@@ -399,7 +399,7 @@ Fabricia da Silva / 10078172, Thais Mayara Almeida de Oliveira / 10037108, Thale
 Andrade / 10045278, Thallyson dos Santos Silva / 10000983, Thamires Dayane Lima Caetano / 10074715,
 Thamiris Pereira dos Santos / 10039257, Thawallacy Ruan da Silva / 10098369, Thayna Garcia da Silva Lino
 / 10000082, Thiago Ferreira dos Santos / 10079062, Thiago Jose Sobral Carvalho / 10010010, Thiago Luis
-de Mesquita Cabral/ 10011903, Thiago Luiz Carnauba Marques / 10019749, Thiago Matheus Albuquerque
+de Mesquita Cabral / 10011903, Thiago Luiz Carnauba Marques / 10019749, Thiago Matheus Albuquerque
 Barbosa / 10009308, Thiago Oliveira de Almeida Delgado / 10056207, Thiago Wamberg Augusto da Silva
 / 10041377, Thierry Alexandre Izidio / 10041973, Thomas Linneker Alves de Omena / 10074450, Thomas
 Richard Bezerra de Lima / 10050199, Thulio Eduardo Guedes Souza / 10033126, Tiago Barbosa Leandro /
@@ -440,4 +440,4 @@ Nunes de Souza / 10069178, Wilson Victor Alves Martins / 10073875, Winicios Kenn
 Nascimento / 10007073, Wisela Vieira de Castro / 10070210, Wislon dos Santos Jesus / 10058956, Yago
 Lacerda Santos / 10053293, Yale Ramos da Costa / 10041257, Yally Gabriela Pereira Lopes da Silva /
 10001804, Yaslan Rozendo de Lima / 10042355, Yasmim Marcela Gomes dos Santos / 10061669, Ygor de
-Jesus Passos / 10030405, Yuri Alves Meneses.
+Jesus Passos / 10030405, Yuri Alves Meneses
